@@ -1,0 +1,233 @@
+[
+{
+
+	"type": "folder",
+	"name": "館長会記録",
+	"files": [
+
+      { "type": "file", "name": "29.1.16 館長会記録.pdf"},
+      { "type": "file", "name": "29.2.20_館長会記録.pdf"},
+      { "type": "file", "name": "29.3.21 館長会記録.pdf"},
+      { "type": "file", "name": "29.4.17 館長会記録.pdf"},
+      { "type": "file", "name": "29.5.15_館長会記録.pdf"},
+      { "type": "file", "name": "29.6.19 館長会記録.pdf"},
+      { "type": "file", "name": "29.7.18 館長会記録.pdf"}
+
+	]
+},
+
+{
+
+	"type": "folder",
+	"name": "館長会資料",
+	"files": [
+
+      {
+
+	      "type": "folder",
+	      "name": "01",
+	      "files": [
+
+            { "type": "file", "name": "1  議会・委員会報告等290116.pdf"},
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "２ 2812広聴回答 28館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2812苦情・相談 28館長会報告xls.pdf"}
+
+	      ]
+      },
+
+      {
+	      "type": "folder",
+	      "name": "02",
+	      "files": [
+            { "type": "file", "name": "1  議会・委員会報告等290220.pdf"},
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "２ 2901広聴回答 28館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2901苦情・相談 28館長会報告xls.pdf"},
+            { "type": "file", "name": "４ 29年度 各会議日程一覧※指定管理者館用.pdf"},
+            { "type": "file", "name": "５ 自殺防止キャンペーン図書館依頼文.pdf"}
+
+	      ]
+      },
+
+      {
+	      "type": "folder",
+	      "name": "03",
+	      "files": [
+            { "type": "file", "name": "1  議会・委員会報告等290321.pdf"},
+            { "type": "file", "name": "10 平成28年度末システム等処理について（館長会資料）H29.3.pdf"},
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "２ 2902広聴回答 28館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2902苦情・相談 28館長会報告xls.pdf"},
+            { "type": "file", "name": "４ 情報資産に係るセキュリティマネジメント実施手順の作成について.pdf"},
+            { "type": "file", "name": "５ 情報セキュリティ事故等発生時対応手順の作成について.pdf"},
+            { "type": "file", "name": "６ 3-1 【環境課】３月21日館長会資料.pdf"},
+            { "type": "file", "name": "７ 3-1 【別紙資料】Ｈ28環境月間ポスター.pdf"},
+            { "type": "file", "name": "８ 障害者サービス事業の一部内容変更について.pdf"},
+            { "type": "file", "name": "９ 関町図書館再開館に伴う資料のデータ変更等について.pdf"}
+
+	      ]
+      },
+
+      {
+	      "type": "folder",
+	      "name": "04",
+	      "files": [
+            { "type": "file", "name": "1  議会・委員会報告等290417.pdf"},
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "２ 2903広聴回答 28館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2903苦情・相談 28館長会報告xls.pdf"},
+            { "type": "file", "name": "４ 1-3 例月の事業実績報告等について.pdf"},
+            { "type": "file", "name": "５ 1-4A 29広報関係事務の流れ.pdf"},
+            { "type": "file", "name": "６ 1-4B 図書館ＨＰ更新フローマニュアル（第４版）.pdf"}
+	      ]
+      },
+
+      {
+
+	      "type": "folder",
+	      "name": "05",
+	      "files": [
+            { "type": "file", "name": "1  議会・委員会報告等290515.pdf"},
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "２ 2904広聴回答 29館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2904苦情・相談 29館長会報告xls.pdf"},
+            { "type": "file", "name": "４ 2  学びと文化の情報サイト開設通知.pdf"}
+
+	      ]
+      },
+
+      {
+	      "type": "folder",
+	      "name": "06",
+	      "files": [
+            { "type": "file", "name": "1  議会・委員会報告等290619.pdf"},
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "２ 2905広聴回答 29館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2905苦情・相談 29館長会報告xls.pdf"},
+            { "type": "file", "name": "４ 打ち水大作戦.pdf"},
+            { "type": "file", "name": "５ 学校史・学校記念誌状況調査.pdf"},
+            { "type": "file", "name": "６-１ 3-1  6.19 １BS絵本過年度分の配布（館長会資料）.pdf"},
+            { "type": "file", "name": "６-２ 3-2  6.19 ３絵本セット内容（館長会）.pdf"},
+            { "type": "file", "name": "６-３ 3-3  6.19 ２施設宛,通知（館長会）.pdf"},
+            { "type": "file", "name": "７ 読書ノート作成状況.pdf"}
+	      ]
+      },
+
+      {
+
+	      "type": "folder",
+	      "name": "07",
+	      "files": [
+            { "type": "file", "name": "０ 次第（館長会）.pdf"},
+            { "type": "file", "name": "１  議会・委員会報告等290718.pdf"},
+            { "type": "file", "name": "２ 2906広聴回答 29館長会報告xls.pdf"},
+            { "type": "file", "name": "３ 2906苦情・相談 29館長会報告xls.pdf"},
+            { "type": "file", "name": "４ 1-3 利用者懇談会（館長会資料）.pdf"},
+            { "type": "file", "name": "５ 1-4-1 練馬区障害者就労施設等からの物品等の調達について（依頼）.pdf"},
+            { "type": "file", "name": "６ 1-4-2 シルバー人材センターへの事務事業の発注について（依頼）.pdf"},
+            { "type": "file", "name": "７ 3  館長会資料「図書館資料受取窓口の開設について」.pdf"},
+            { "type": "file", "name": "８ 2-1 91武蔵大学図書館の利用について.pdf"},
+            { "type": "file", "name": "９-１ 2-2 92【武蔵大学別紙】利用登録願（表）.pdf"},
+            { "type": "file", "name": "９-２ 2-2 92【武蔵大学別紙】利用登録願（裏）.pdf"}
+	      ]
+      }
+   ]
+},
+
+
+{
+
+	"type": "folder",
+	"name": "指定管理者連絡調整会議 議事要録",
+	"files": [
+
+      {
+
+	      "type": "folder",
+	      "name": "02",
+	      "files": [
+            { "type": "file", "name": "平成29年2月 稲荷山図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 貫井図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 春日町図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 小竹図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 大泉図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 南大泉図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 南田中図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年2月 平和台図書館指定管理者連絡調整会議 議事要録.pdf"}
+
+	      ]
+      },
+
+      {
+
+	      "type": "folder",
+	      "name": "03",
+	      "files": [
+            { "type": "file", "name": "平成29年3月 平和台図書館指定管理者連絡調整会議 議事要録.pdf"}
+
+	      ]
+      },
+
+      {
+       
+	      "type": "folder",
+	      "name": "04",
+	      "files": [
+            { "type": "file", "name": "平成29年4月 関町図書館指定管理者連絡調整会議 議事要録.pdf"}
+
+	      ]
+      },
+
+      {
+
+	      "type": "folder",
+	      "name": "05",
+	      "files": [
+            { "type": "file", "name": "平成29年5月 稲荷山図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 貫井図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 関町図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 春日町図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 小竹図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 大泉図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 南大泉図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 南田中図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年5月 平和台図書館指定管理者連絡調整会議 議事要録.pdf"}
+
+	      ]
+      },
+
+      {
+
+	      "type": "folder",
+	      "name": "06",
+	      "files": [
+            { "type": "file", "name": "平成29年6月 関町図書館指定管理者連絡調整会議 議事要録.pdf"}
+
+	      ]
+      },
+
+      {
+
+	      "type": "folder",
+	      "name": "07",
+	      "files": [
+            { "type": "file", "name": "平成29年7月 稲荷山図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 貫井図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 関町図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 春日町図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 小竹図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 大泉図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 南大泉図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 南田中図書館指定管理者連絡調整会議 議事要録.pdf"},
+            { "type": "file", "name": "平成29年7月 平和台図書館指定管理者連絡調整会議 議事要録.pdf"}
+            
+       	]
+      }
+   ]
+
+}
+]
+     
+      
+      

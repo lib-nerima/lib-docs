@@ -1,0 +1,162 @@
+
+[
+	{
+	   "type": "folder",
+		"name": "2008",
+	   "files": [
+				{ "type": "file", "name": "平成20年10月19日石神井図書館会議録.pdf"},
+				{ "type": "file", "name": "平成20年12月14日春日町図書館会議録.pdf"},
+				{ "type": "file", "name": "平成20年6月15日大泉図書館.pdf"},
+				{ "type": "file", "name": "平成20年8月10練馬図書館.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2009",
+	   "files": [
+				{ "type": "file", "name": "平成21年10月18日貫井図書館.pdf"},
+				{ "type": "file", "name": "平成21年12月13日関町図書館.pdf"},
+				{ "type": "file", "name": "平成21年6月21日平和台図書館.pdf"},
+				{ "type": "file", "name": "平成21年8月9日稲荷山図書館.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2010",
+	   "files": [
+				{ "type": "file", "name": "平成22年10月24日光が丘図書館.pdf"},
+				{ "type": "file", "name": "平成22年12月19日南大泉図書館.pdf"},
+				{ "type": "file", "name": "平成22年6月20日小竹図書館.pdf"},
+				{ "type": "file", "name": "平成22年8月22日南田中図書館.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2011",
+	   "files": [
+				{ "type": "file", "name": "平成23年11月12日光が丘図書館会議録.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2012",
+	   "files": [
+				{ "type": "file", "name": "平成24年11月3日光が丘図書館会議録.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2013",
+	   "files": [
+				{ "type": "file", "name": "懇談会アンケート集計結果.pdf"},
+				{ "type": "file", "name": "平成25年11月16日石神井図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成25年11月16日石神井図書館会議録.pdf"},
+				{ "type": "file", "name": "平成25年11月8日南田中図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成25年11月9日光が丘図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成25年11月9日光が丘図書館会議録.pdf"},
+				{ "type": "file", "name": "平成25年11月9日大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成25年11月9日大泉図書館会議録.pdf"},
+				{ "type": "file", "name": "平成25年11月9日南大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成25年11月9日南大泉図書館会議録.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2014",
+	   "files": [
+				{ "type": "file", "name": "2014年懇談会アンケート集計結果.pdf"},
+				{ "type": "file", "name": "2014年図書館全体に関わる意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月15日光が丘図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月15日光が丘図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月2日稲荷山図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月2日稲荷山図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月2日春日町図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月2日春日町図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月8日石神井図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月8日石神井図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月8日大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月8日大泉図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月8日南大泉図書館分室 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月8日南大泉図書館分室会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月8日南田中図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月8日南田中図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月9日貫井図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月9日貫井図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月9日小竹図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月9日小竹図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月9日南大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月9日南大泉図書館会議録.pdf"},
+				{ "type": "file", "name": "平成26年11月9日練馬図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成26年11月9日練馬図書館会議録.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2015",
+	   "files": [
+				{ "type": "file", "name": "2015年懇談会アンケート集計結果.pdf"},
+				{ "type": "file", "name": "2015年図書館全体に関わる意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年10月31日関町図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年10月31日大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月14日光が丘図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月14日光が丘図書館会議録.pdf"},
+				{ "type": "file", "name": "平成27年11月1日稲荷山図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月1日貫井図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月1日南大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月3日春日町図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月7日小竹図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月7日石神井図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月7日練馬図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月8日南大泉図書館分室 意見の概要.pdf"},
+				{ "type": "file", "name": "平成27年11月8日南田中図書館 意見の概要.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2016",
+	   "files": [
+				{ "type": "file", "name": "2016年懇談会アンケート集計結果.pdf"},
+				{ "type": "file", "name": "2016年図書館全体に関わる意見 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年10月29日稲荷山図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年10月29日大泉図書館 意見の概要.pdf"},.pdf
+				{ "type": "file", "name": "平成28年10月30日石神井図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年10月30日南大泉図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年10月30日南大泉図書館分室 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年10月30日平和台図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年11月12日光が丘図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年11月3日春日町図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年11月3日練馬図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年11月5日小竹図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年11月5日南田中図書館 意見の概要.pdf"},
+				{ "type": "file", "name": "平成28年11月6日貫井図書館 意見の概要.pdf"}
+      ]
+   },
+	{
+	   "type": "folder",
+		"name": "2017",
+	   "files": [
+				{ "type": "file", "name": "29enquete.pdf"},
+				{ "type": "file", "name": "29gaiyo_all.pdf"},
+				{ "type": "file", "name": "29gaiyo_heiwadai.pdf"},
+				{ "type": "file", "name": "29gaiyo_hikarigaoka.pdf"},
+				{ "type": "file", "name": "29gaiyo_hiroba.pdf"},
+				{ "type": "file", "name": "29gaiyo_inariyama.pdf"},
+				{ "type": "file", "name": "29gaiyo_kasugacho.pdf"},
+				{ "type": "file", "name": "29gaiyo_kotake.pdf"},
+				{ "type": "file", "name": "29gaiyo_minamioizumi.pdf"},
+				{ "type": "file", "name": "29gaiyo_minamitanaka.pdf"},
+				{ "type": "file", "name": "29gaiyo_nerima.pdf"},
+				{ "type": "file", "name": "29gaiyo_nukui.pdf"},
+				{ "type": "file", "name": "29gaiyo_oizumi.pdf"},
+				{ "type": "file", "name": "29gaiyo_sekimachi.pdf"},
+				{ "type": "file", "name": "29gaiyo_shakujii.pdf"},
+				{ "type": "file", "name": "29kaigiroku_hikarigaoka.pdf"}
+      ]
+   }
+
+]    
+    
+    
+    
+    
+
