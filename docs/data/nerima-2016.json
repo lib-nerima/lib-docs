@@ -1,0 +1,216 @@
+[
+
+		{
+			"type": "folder",
+			"name": "館長会記録（提出用）",
+			"files": [
+
+            { "type": "file", "name": "27.11.16 館長会記録.pdf"},
+            { "type": "file", "name": "27.12.21 館長会記録.pdf"},
+            { "type": "file", "name": "28.1.18 館長会記録.pdf"},
+            { "type": "file", "name": "28.10.17_館長会記録.pdf"},
+            { "type": "file", "name": "28.11.21 館長会記録.pdf"},
+            { "type": "file", "name": "28.12.19 館長会記録.pdf"},
+            { "type": "file", "name": "28.2.15 館長会記録.pdf"},
+            { "type": "file", "name": "28.3.22 館長会記録.pdf"},
+            { "type": "file", "name": "28.4.18 館長会記録.pdf"},
+            { "type": "file", "name": "28.5.16 館長会記録.pdf"},
+            { "type": "file", "name": "28.6.20 館長会記録.pdf"},
+            { "type": "file", "name": "28.7.19 館長会記録.pdf"},
+            { "type": "file", "name": "28.9.20 館長会記録.pdf"}
+			]
+		},
+
+      {
+         "type": "folder",
+         "name": "館長会資料（提出用）",
+         "files": [
+
+            {
+               "type": "folder",
+		         "name": "27.11資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等271116.pdf"},
+				         { "type": "file", "name": "1-6 ビジョンの進捗状況調査【依頼文】.pdf"},
+				         { "type": "file", "name": "1-6 調査表.pdf"},
+				         { "type": "file", "name": "27.10苦情.pdf"},
+				         { "type": "file", "name": "27.10広聴.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "27.12資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等271221.pdf"},
+				         { "type": "file", "name": "1-4 27各館電気使用量（作成中）.pdf"},
+				         { "type": "file", "name": "27.11苦情相談xls.pdf"},
+				         { "type": "file", "name": "27.11広聴回答.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.10資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等281017.pdf"},
+				         { "type": "file", "name": "2-1 図書館システムのバージョンアップ等にともなう利用制限等について.pdf"},
+				         { "type": "file", "name": "2-2 変更点について.pdf"},
+				         { "type": "file", "name": "2-3 177 オンライン・データベース情報提供.pdf"},
+				         { "type": "file", "name": "28.9苦情相談.pdf"},
+				         { "type": "file", "name": "28.9広聴回答.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.11資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等281121.pdf"},
+				         { "type": "file", "name": "28.10苦情相談.pdf"},
+				         { "type": "file", "name": "28.10広聴回答.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.12資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等281219.pdf"},
+				         { "type": "file", "name": "28.11苦情相談.pdf"},
+				         { "type": "file", "name": "28.11広聴回答.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.1資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等28118.pdf"},
+				         { "type": "file", "name": "1-3  一時避難場所・臨時的避難所における避難者の受け入れについて・A4.pdf"},
+				         { "type": "file", "name": "1-4  認知症サポーター養成講座.pdf"},
+				         { "type": "file", "name": "2  システム保守作業によるELCIELOの一部業務停止について.pdf"},
+				         { "type": "file", "name": "27.12苦情相談xls.pdf"},
+				         { "type": "file", "name": "27.12広聴回答.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.2資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280215.pdf"},
+				         { "type": "file", "name": "1-4 別紙１ 稼働率の考え方.pdf"},
+				         { "type": "file", "name": "1-4 別紙３ 稼働率算出のための入力フォーム例.pdf"},
+				         { "type": "file", "name": "28.1苦情相談xls.pdf"},
+				         { "type": "file", "name": "28.1広聴.pdf"},
+				         { "type": "file", "name": "障害者就労促進協会の共同受注窓口について.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.3資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280322.pdf"},
+				         { "type": "file", "name": "1-3図書館ビジョン進捗状況.pdf"},
+				         { "type": "file", "name": "2  館長会資料_関町図書館の大規模改修工事について（修正版）.pdf"},
+				         { "type": "file", "name": "28.2苦情相談xls.pdf"},
+				         { "type": "file", "name": "28.2広聴.pdf"},
+				         { "type": "file", "name": "3-1_館長会資料システム担当からのお知らせ.pdf"},
+				         { "type": "file", "name": "3-1_別紙１（2年間未利用削除）.pdf"},
+				         { "type": "file", "name": "3-1_別紙２（人事異動等に伴う処理）.pdf"},
+				         { "type": "file", "name": "3-2【最新】0328図書館ホームページ（ＣＭＳ）の改修について（通知）.pdf"},
+				         { "type": "file", "name": "3-3 ＤＶＤ資料の所蔵と貸出等について（28年3月館長会資料）.pdf"},
+				         { "type": "file", "name": "3-4 H27環境月間行事ポスター.jpg"},
+				         { "type": "file", "name": "3-4【環境課】平成28年度環境月間行事のご提案.pdf"},
+				         { "type": "file", "name": "4 ブックスタート引換券.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.4資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280418.pdf"},
+				         { "type": "file", "name": "28.3_苦情相談xls.pdf"},
+				         { "type": "file", "name": "28.3広聴.pdf"},
+				         { "type": "file", "name": "4(1)③ 例月の事業実績報告等について.pdf"},
+				         { "type": "file", "name": "5-1 28広報関係事務の流れ.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.5資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280516.pdf"},
+				         { "type": "file", "name": "2  関町図書館改修に伴う資料の扱いについて（案）.pdf"},
+				         { "type": "file", "name": "28.4苦情相談.pdf"},
+				         { "type": "file", "name": "28.4広聴回答.pdf"},
+				         { "type": "file", "name": "3  雑誌スポンサー制度における各館での納品管理作業について（お願い）.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.6資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280620.pdf"},
+				         { "type": "file", "name": "28.5苦情相談.pdf"},
+				         { "type": "file", "name": "28.5広聴回答.pdf"},
+				         { "type": "file", "name": "南大泉図書館読書ノート.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.7資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280719.pdf"},
+				         { "type": "file", "name": "28.6苦情相談.pdf"},
+				         { "type": "file", "name": "28.6広聴回答.pdf"}
+               ]
+            },
+            {
+               "type": "folder",
+		         "name": "28.9資料",
+               "files": [
+				         { "type": "file", "name": "1  議会・委員会報告等280920.pdf"},
+				         { "type": "file", "name": "28.7苦情相談.pdf"},
+				         { "type": "file", "name": "28.7広聴回答.pdf"},
+				         { "type": "file", "name": "28.8苦情相談.pdf"},
+				         { "type": "file", "name": "28.8広聴回答.pdf"},
+				         { "type": "file", "name": "28利用者アンケートの実施&28新任教員研修実施.pdf"}
+               ]
+            }
+
+         ]
+      },
+      
+  		{
+			"type": "folder",
+			"name": "事業報告書",
+			"files": [
+				{ "type": "file", "name": "28年度 練馬区立稲荷山図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立貫井図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立春日町図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立小竹町図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立大泉図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立南大泉図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立南田中図書館 事業報告書.pdf"},
+				{ "type": "file", "name": "28年度 練馬区立平和台図書館 事業報告書.pdf"}
+			]
+		},
+
+
+		{
+			"type": "folder",
+			"name": "指定管理者連絡調整会議要録",
+			"files": [
+
+            { "type": "file", "name": "指定管理者連絡調整会議要録(平成27年10月～平成28年12月分).pdf"}
+			]
+		},
+			
+		{
+			"type": "folder",
+			"name": "その他",
+			"files": [
+
+            { "type": "file", "name": "関町図書館提案書((株)図書館流通センター).pdf"}
+			]
+		}
+
+
+]
+
