@@ -2,17 +2,18 @@
 
 	import { pageNum } from './stores.js';
 	import { createEventDispatcher, onDestroy } from 'svelte';
-   import { List, ListGroup, ListItem, Icon } from 'svelte-materialify';
-   import { Article, Cancel, ExpandLess, FileText, Folder, Help, Home, Info, MoreVert, 
-            PlayCircleFilled, Settings, Share } from '../material-icons/_index';
+	import { List, ListGroup, ListItem, Icon } from 'svelte-materialify';
+	import { Article, Cancel, ExpandLess, FileText, Folder, Help, Home, Info, MoreVert, 
+					 PlayCircleFilled, Settings, Share } from '../material-icons/_index';
 
 	const dispatch = createEventDispatcher();
 	const close = () => dispatch('close');
    
-   let menus = [
+	let menus = [
       {item:"図書館関係資料", ref:"materials", icon:"folder", color:"#0288d1"},
-      {item:"LINKS",       ref:"links",     icon:"share", color:"#0288d1"}
-   ];
+      {item:"統計資料", ref:"statistics", icon:"folder", color:"#0288d1"},
+      {item:"LINKS", ref:"links",     icon:"share", color:"#0288d1"}
+	];
  
 </script>
 
