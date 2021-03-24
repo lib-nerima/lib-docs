@@ -3,13 +3,12 @@
 	import * as Pancake from '@sveltejs/pancake'; 
 	import { libraries, years } from '../../public/data/statistics-data.js';
 
-   // MATERIAL-ICONSInfo, DoubleArrow
+	// MATERIAL-ICONSInfo, DoubleArrow
 	import { DoubleArrow } from '../material-icons/_index';
-
 	const _libraries = [
 	   "光が丘","練馬","石神井","平和台","大 泉","関町","貫井",
 		"稲荷山","小竹","南大泉","南大泉分室","春日町","南田中"
-   ];
+	   ];
 	
 	let x1 = +Infinity;
 	let x2 = -Infinity
@@ -74,8 +73,8 @@
 <h4 class="{size}">館別蔵書冊数</h4>
 
 <button
-		class:active="{current === '全館'}"
-		on:mouseover="{() => {current = '全館'; setData('')}}">
+	class:active="{current === '全館'}"
+	on:mouseover="{() => {current = '全館'; setData('')}}">
 	全館
 </button>
 
@@ -87,6 +86,10 @@
 		{library}
 	</button>
 {/each}
+
+<ul>
+<li class="text-caption">グラフにマウスカーソルを当てると各年度の数値が表示されます。</li>
+</ul>
 
 <input type="hidden" bind:value={filter}>
 
@@ -172,7 +175,7 @@
 		width:400px;
 		height: 400px;
 		padding: 3em 0 2em 2em;
-		margin: 0 0 36px 6px;
+		margin: 12px 0 36px 6px;
 	}
 	.chart-ex {
 		margin-left:26px;
