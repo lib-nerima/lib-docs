@@ -46,15 +46,14 @@
 
    <div class="d-flex justify-center mt-2 mb-2" style="margin:4px;">
      <div class="elevation-1" style="width:100%;">
-       <ListItem> 
-            「<a href="#/statistics">統計資料</a>」のページを追加しました。
-          <span slot="subtitle" class="blue-grey-text lighten-2"> 2021-03-24 </span>
-       </ListItem>
-       <ListItem> 
-          サイトを公開しました。
-          <span slot="subtitle" class="blue-grey-text lighten-2"> 2021-03-12 </span>
-       </ListItem>
-
+         {#each changelog as {info, date}, i}
+             <ListItem> 
+                  {@html info}
+                <span slot="subtitle" class="blue-grey-text lighten-2">
+                  {date}
+                </span>
+             </ListItem>
+         {/each}
      </div>
    </div>
    
