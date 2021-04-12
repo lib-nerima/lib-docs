@@ -1,4 +1,25 @@
 [
+      {
+         "type": "folder",
+			"name": "2020",
+			"files": [
+			
+            { "type": "file", "name": "2020アンケート全館分集計結果.pdf"},
+            { "type": "file", "name": "2020光が丘図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020練馬図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020石神井図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020平和台図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020大泉図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020関町図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020貫井図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020稲荷山図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020小竹図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020南大泉図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020南大泉図書館分室アンケート結果.pdf"},
+            { "type": "file", "name": "2020春日町図書館アンケート結果.pdf"},
+            { "type": "file", "name": "2020南田中図書館アンケート結果.pdf"}
+			]
+	},
 
       {
          "type": "folder",
