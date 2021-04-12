@@ -1,7 +1,7 @@
 
 var changelog = [      
    {
-      info :"「<a href=\"#/materials\">2020年度図書館利用者懇談会会議録</a>」を追加しました。",
+      info :"「<a href=\"#/materials\">2020年度図書館利用者懇談会会議録</a>」<br>「<a href=\"#/materials\">2020年度利用者アンケート</a>」を追加しました。",
       date :"2021-04-12"
    },
 
